@@ -1,0 +1,39 @@
+{
+  "name": "chatrooms",
+  "version": "0.1.0",
+  "description": "MEAN application for communitcating with like minded people",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "bcrypt-as-promised": "^1.1.0",
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "crypto-js": "^3.1.7",
+    "express": "^4.14.0",
+    "jwt-simple": "^0.5.0",
+    "lodash": "^4.16.4",
+    "mongoose": "^4.6.3",
+    "mongoose-times": "^0.1.0",
+    "mongoose-ttl": "0.0.3",
+    "mongoose-validator": "^1.2.5",
+    "node-uuid": "^1.4.7",
+    "passport": "^0.3.2",
+    "pubnub": "^3.7.8",
+    "response-time": "^2.3.1",
+    "validator": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom5191/chatrooms.git"
+  },
+  "author": "Thomas Horner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tom5191/chatrooms/issues"
+  },
+  "homepage": "https://github.com/tom5191/chatrooms#readme"
+}
